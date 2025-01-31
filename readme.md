@@ -8,4 +8,4 @@ This is a simple application that runs a local AI Chatbot similar to ChatGPT. It
 * DevOps: Docker for application containerization
 
 # Runing the application
-Since the application is dockerized, simply run the `start.sh` script to build and start the containers. The application is accessible on port [localhost](http://localhost). API keys are not needed since this AI model runs locally. The only prerequisite is that Docker is installed on your computer.
+Since the application is dockerized, simply run the `run.sh` script to build and start the containers. The application is accessible on port [localhost](http://localhost). API keys are not needed since this AI model runs locally. The only prerequisite is that Docker is installed on your computer.
